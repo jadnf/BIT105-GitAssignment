@@ -1,0 +1,1 @@
+Thor (The Thunder God), the strongest hero, is responsible for ensuring the application can handle the workload of all the superheroes. He needs a scalable and high-performance system that can handle a large number of users and their tasks.
