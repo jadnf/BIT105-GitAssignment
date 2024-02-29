@@ -3,3 +3,5 @@ team, is responsible for designing the user interface and ensuring the applicati
 is user-friendly. He needs a simple yet visually appealing interface that allows
 him to easily input and track his work assignments and time spent saving the
 world.
+
+He uses his high tech suit to stop his enemies.
